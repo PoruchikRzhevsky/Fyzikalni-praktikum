@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="96" arch="Win64" script="muParser" windows="3" expand="1" log="[2023-04-29 16:59:07&#9;График: ''График1'']&#10;Линейная регрессия набора данных: Таблица1_Čidlo 1, используя функцию: A*x+B&#10;Сортировать: Нет&#10;Способ взвешивания: Без взвешивания&#10;От значения по x = 2,1000000000000e+01 до значения по x = 8,0000000000000e+01&#10;&#10;Параметр                            Значение                            Ошибка                               &#10;---------------------------------------------------------------------&#10;B (y-intercept)                    1,0088949125503e+03  6,8769144055974e-01   &#10;A (slope)                             3,6789705578188e+00  1,2697885827453e-02   &#10;---------------------------------------------------------------------&#10;Errors were scaled with sqrt(Chi^2/doF) = 8,5112941419121e-01&#10;&#10;Statistics                                        Таблица1_Čidlo 1                       &#10;--------------------------------------------------------&#10;N (точек)                                       12                                                   &#10;Degrees of Freedom (doF)         10                                                   &#10;Chi^2/doF                                    7,2442127970147e-01             &#10;Сумма квадратов разностей    7,2442127970147e+00            &#10;R                                                     9,9994044182035e-01             &#10;R^2                                                 9,9988088718787e-01             &#10;Adjusted R^2                                9,9986897590666e-01             &#10;Среднеквадратичная ошибка  8,5112941419121e-01             &#10;--------------------------------------------------------&#10;[2023-04-29 17:00:35&#9;График: ''График1'']&#10;Линейная регрессия набора данных: Таблица1_Čidlo 1, используя функцию: A*x+B&#10;Сортировать: Нет&#10;Способ взвешивания: Без взвешивания&#10;От значения по x = 2,1000000000000e+01 до значения по x = 8,0000000000000e+01&#10;&#10;Параметр                            Значение                            Ошибка                               &#10;---------------------------------------------------------------------&#10;B (y-intercept)                    1,0088949125503e+03  6,8769144055974e-01   &#10;A (slope)                             3,6789705578188e+00  1,2697885827453e-02   &#10;---------------------------------------------------------------------&#10;Errors were scaled with sqrt(Chi^2/doF) = 8,5112941419121e-01&#10;&#10;Statistics                                        Таблица1_Čidlo 1                       &#10;--------------------------------------------------------&#10;N (точек)                                       12                                                   &#10;Degrees of Freedom (doF)         10                                                   &#10;Chi^2/doF                                    7,2442127970147e-01             &#10;Сумма квадратов разностей    7,2442127970147e+00            &#10;R                                                     9,9994044182035e-01             &#10;R^2                                                 9,9988088718787e-01             &#10;Adjusted R^2                                9,9986897590666e-01             &#10;Среднеквадратичная ошибка  8,5112941419121e-01             &#10;--------------------------------------------------------&#10;[2023-04-29 17:01:15&#9;График: ''График1'']&#10;Линейная регрессия набора данных: Таблица1_Čidlo 2, используя функцию: A*x+B&#10;Сортировать: Нет&#10;Способ взвешивания: Без взвешивания&#10;От значения по x = 2,1000000000000e+01 до значения по x = 8,0000000000000e+01&#10;&#10;Параметр                            Значение                            Ошибка                               &#10;---------------------------------------------------------------------&#10;B (y-intercept)                    9,9154740006834e+02  2,4342116117969e+00  &#10;A (slope)                             5,7802548464249e+00  4,4946525874014e-02   &#10;---------------------------------------------------------------------&#10;Errors were scaled with sqrt(Chi^2/doF) = 3,0127306826442e+00&#10;&#10;Statistics                                        Таблица1_Čidlo 2                       &#10;--------------------------------------------------------&#10;N (точек)                                       12                                                   &#10;Degrees of Freedom (doF)         10                                                   &#10;Chi^2/doF                                    9,0765461661458e+00            &#10;Сумма квадратов разностей    9,0765461661458e+01            &#10;R                                                     9,9969781604649e-01             &#10;R^2                                                 9,9939572340812e-01             &#10;Adjusted R^2                                9,9933529574894e-01             &#10;Среднеквадратичная ошибка  3,0127306826442e+00            &#10;--------------------------------------------------------&#10;[2023-04-29 17:03:56&#9;График: ''График2'']&#10;Линейная регрессия набора данных: Таблица1_U [V], используя функцию: A*x+B&#10;Сортировать: Нет&#10;Способ взвешивания: Без взвешивания&#10;От значения по x = 2,1000000000000e+01 до значения по x = 8,0000000000000e+01&#10;&#10;Параметр                             Значение                             Ошибка                                &#10;----------------------------------------------------------------------&#10;B (y-intercept)                     -2,3374196976723e-04  1,0726892046856e-05    &#10;A (slope)                              4,5259478809237e-05    1,9806681087018e-07    &#10;----------------------------------------------------------------------&#10;Errors were scaled with sqrt(Chi^2/doF) = 1,3276264332302e-05&#10;&#10;Statistics                                        Таблица1_U [V]                           &#10;--------------------------------------------------------&#10;N (точек)                                       12                                                   &#10;Degrees of Freedom (doF)         10                                                   &#10;Chi^2/doF                                    1,7625919462116e-10             &#10;Сумма квадратов разностей    1,7625919462116e-09             &#10;R                                                     9,9990425591566e-01             &#10;R^2                                                 9,9980852099825e-01             &#10;Adjusted R^2                                9,9978937309807e-01             &#10;Среднеквадратичная ошибка  1,3276264332302e-05             &#10;--------------------------------------------------------&#10;">
+	<window type="1" name="Таблица1" date="2460063.7035801" x="24" y="285" w="590" h="569">
+		<tab rows="30" cols="5" labels="0">
+			<col name="Voda [°C]" type="6" num="0" prec="13" plot="1" width="100" stat="0" data="2;1;1;1;0;0;0;0;0;0;0;0;"/>
+			<col name="Oley [°C]" type="6" num="0" prec="13" plot="1" width="100" stat="0" data="21;25;30;35;40;50;55;60;66;70;75;80;"/>
+			<col name="U [V]" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="0.0007217;0.0008796;0.0011079;0.0013593;0.0016057;0.0020258;0.0022587;0.0024818;0.0027608;0.0029239;0.0031548;0.0033876;"/>
+			<col name="Čidlo 1" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="1087.0493106;1099.5669126;1118.09767;1138.3964502;1156.6386912;1193.2627376;1211.1801631;1229.8579949;1252.839789;1265.576438;1284.3118479;1303.0960741;"/>
+			<col name="Čidlo 2" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="1117.546923;1137.308725;1164.4398966;1193.8397702;1221.1668325;1277.3392664;1305.360395;1335.1626894;1373.6067041;1395.5220518;1427.1831171;1458.7071215;"/>
+		</tab>
+	</window>
+	<window type="3" name="График1" date="2460063.708003" x="703" y="128" w="1117" h="785" dpi="96">
+		<layout cw="1101" ch="726" w="591" h="443" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="8" y="6" w="1086" h="713" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.00726612" y="0.00826446" w="0.986376" h="0.982094"/>
+			<title text="Závislost odporu čidel na teplotě" color="#000000" font="Lucida Sans Unicode,14.8264,-1,5,75,0,0,0,0,0" align="4228" fmw="347"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="94" y="48" w="986" h="610" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="1" z="21" table="Таблица1" x="Oley [°C]" y="Čidlo 1" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="1" z="22" table="Таблица1" x="Oley [°C]" y="Čidlo 2" from="0" to="-1" line="0" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="2" size="7" lc="#ff0000" lw="1" ls="0" brc="#ff0000"/>
+			</curve>
+			<curve type="19" z="23" name="ЛинейнаяАппроксимация1" f="0" y="A*x+B" from="21" to="80" points="2" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="3.67897055781879"/>
+				<param name="B" val="1008.89491255033"/>
+			</curve>
+			<curve type="19" z="24" name="ЛинейнаяАппроксимация2" f="0" y="A*x+B" from="21" to="80" points="2" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="5.78025484642493"/>
+				<param name="B" val="991.547400068339"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="1050" to="1500" step="0" maj="10" min="4" type="0"/>
+				<ticks maj="1" majl="13" min="1" minl="9"/>
+				<title text="R [Ω]" color="#000000" font="Lucida Sans Unicode,11.8611,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="43"/>
+				<labels space="4" font="Lucida Sans Unicode,11.8611,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="13" min="1" minl="9"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="20" to="90" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="13" min="1" minl="9"/>
+				<title text="t [°C]" color="#000000" font="Lucida Sans Unicode,11.8611,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="42"/>
+				<labels space="4" font="Lucida Sans Unicode,11.8611,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="13" min="1" minl="9"/>
+			</axis>
+			<item type="2" x="21.2081218274112" y="1489.65517241379" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,12.2318,-1,5,50,0,0,0,0,0" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+			<filter type="0" inCrv="0" from="21" to="80" outCrv="2" points="2" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="0" chi2="7.24421279701474" func="1" pasteResults="0">
+				<parameter name="B" val="1008.89491255033" explain="y-intercept" err="0.472919517419137"/>
+				<parameter name="A" val="3.67897055781879" explain="slope" err="0.00016123630448702"/>
+			</filter>
+			<filter type="0" inCrv="1" from="21" to="80" outCrv="3" points="2" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="0" chi2="90.7654616614582" func="1" pasteResults="0">
+				<parameter name="B" val="991.547400068339" explain="y-intercept" err="5.92538617100685"/>
+				<parameter name="A" val="5.78025484642493" explain="slope" err="0.00202019018814337"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="3" name="График2" date="2460063.7103931" x="698" y="88" w="1114" h="782" active="1" dpi="96">
+		<layout cw="1098" ch="723" w="591" h="443" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="7" y="49" w="1017" h="667" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.00637523" y="0.0677732" w="0.92623" h="0.922545"/>
+			<title text="Závislost napětí čidel na teplotě" color="#000000" font="Lucida Sans Unicode,13.7813,-1,5,75,0,0,0,0,0" align="4228" fmw="309"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="95" y="90" w="916" h="570" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="1" z="21" table="Таблица1" x="Oley [°C]" y="U [V]" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="ЛинейнаяАппроксимация1" f="0" y="A*x+B" from="21" to="80" points="2" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="4.52594788092368e-05"/>
+				<param name="B" val="-0.000233741969767226"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0.0005" to="0.0035" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="12" min="1" minl="7"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,11.025,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="40"/>
+				<labels space="4" font="Lucida Sans Unicode,11.025,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="12" min="1" minl="7"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="20" to="90" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="12" min="1" minl="7"/>
+				<title text="t [°C]" color="#000000" font="Lucida Sans Unicode,11.025,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="42"/>
+				<labels space="4" font="Lucida Sans Unicode,11.025,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="12" min="1" minl="7"/>
+			</axis>
+			<item type="2" x="21.0262675626145" y="0.00345067264573991" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,11.3696,-1,5,50,0,0,0,0,0" text="\l(1)%(1)&#10;"/>
+			<filter type="0" inCrv="0" from="21" to="80" outCrv="1" points="2" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="0" chi2="1.76259194621163e-09" func="1" pasteResults="0">
+				<parameter name="B" val="-0.000233741969767226" explain="y-intercept" err="1.15066212984904e-10"/>
+				<parameter name="A" val="4.52594788092368e-05" explain="slope" err="3.92304615682826e-14"/>
+			</filter>
+		</tab>
+	</window>
+</qti>

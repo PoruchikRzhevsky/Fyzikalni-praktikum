@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="96" arch="Win64" script="muParser" windows="2" expand="1" log="[2023-04-23 07:17:20&#9;График: ''График1'']&#10;Аппроксимация полиномами набора данных: Таблица1_Dolní osa, используя функцию: a0+a1*x+a2*x^2+a3*x^3+a4*x^4&#10;Сортировать: Нет&#10;Способ взвешивания: Инструментальный, использую набор данных о погрешности: Таблица1_1&#10;От значения по x = 0,0000000000000e+00 до значения по x = 1,0000000000000e+01&#10;&#10;Параметр                             Значение                             Ошибка                                &#10;----------------------------------------------------------------------&#10;a0                                          1,9641348251748e+00   7,5364580085248e-04    &#10;a1                                          7,2281002330981e-03    1,1606854961412e-03    &#10;a2                                          5,2681235431279e-04    5,0846197138176e-04    &#10;a3                                          -8,1689976689996e-05  7,8244654998048e-05    &#10;a4                                          3,5606060605992e-06    3,8800327558289e-06    &#10;----------------------------------------------------------------------&#10;Errors were scaled with sqrt(Chi^2/doF) = 9,8810508329056e-02&#10;&#10;Statistics                                        Таблица1_Dolní osa                   &#10;--------------------------------------------------------&#10;N (точек)                                       11                                                   &#10;Degrees of Freedom (doF)         6                                                     &#10;Chi^2/doF                                    9,7635165562465e-03             &#10;Сумма квадратов разностей    5,8581099337479e-02             &#10;R                                                     9,9973368681438e-01             &#10;R^2                                                 9,9946744455148e-01             &#10;Adjusted R^2                                9,9911240758579e-01             &#10;Среднеквадратичная ошибка  9,8810508329056e-02             &#10;--------------------------------------------------------&#10;[2023-04-23 07:17:45&#9;График: ''График1'']&#10;Аппроксимация полиномами набора данных: Таблица1_Horní osa, используя функцию: a0+a1*x+a2*x^2+a3*x^3+a4*x^4&#10;Сортировать: Нет&#10;Способ взвешивания: Инструментальный, использую набор данных о погрешности: Таблица1_2&#10;От значения по x = 0,0000000000000e+00 до значения по x = 1,0000000000000e+01&#10;&#10;Параметр                             Значение                             Ошибка                                &#10;----------------------------------------------------------------------&#10;a0                                          1,8675600000000e+00   8,3649105218730e-04    &#10;a1                                          2,5039285159271e-02    1,2882749838573e-03    &#10;a2                                          1,9575757575793e-03    5,6435515060006e-04    &#10;a3                                          -1,3753690753721e-04  8,6845775181717e-05    &#10;a4                                          7,8088578088600e-06    4,3065491491883e-06    &#10;----------------------------------------------------------------------&#10;Errors were scaled with sqrt(Chi^2/doF) = 2,2584400318533e-02&#10;&#10;Statistics                                        Таблица1_Horní osa                   &#10;--------------------------------------------------------&#10;N (точек)                                       11                                                   &#10;Degrees of Freedom (doF)         6                                                     &#10;Chi^2/doF                                    5,1005513774773e-04             &#10;Сумма квадратов разностей    3,0603308264864e-03             &#10;R                                                     9,9998608930858e-01             &#10;R^2                                                 9,9997217881067e-01             &#10;Adjusted R^2                                9,9995363135111e-01             &#10;Среднеквадратичная ошибка  2,2584400318533e-02             &#10;--------------------------------------------------------&#10;">
+	<window type="1" name="Таблица1" date="2460020.4752634" x="9" y="11" w="708" h="508">
+		<tab rows="30" cols="5" labels="0">
+			<col name="Poloha na ose [cm]" type="6" num="0" prec="13" plot="1" width="100" stat="0" data="0;1;2;3;4;5;6;7;8;9;10;"/>
+			<col name="Dolní osa" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="1.96418;1.97184;1.97962;1.98902;1.99808;2.0042;2.0134;2.0214;2.029;2.035;2.0432;"/>
+			<col name="Horní osa" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="1.86718;1.89552;1.92396;1.95648;1.99222;2.0306;2.068;2.1106;2.1542;2.2028;2.2542;"/>
+			<col name="1" type="6" num="0" prec="13" plot="5" width="100" formula="SD(&quot;Dolní osa&quot;, 1, 30)/sqrt(11)" stat="0" comment="Standard Error от Таблица1_Dolní osa" data="0.0079688659458426;0.0079688659458426;0.0079688659458426;0.0079688659458426;0.0079688659458426;0.0079688659458426;0.0079688659458426;0.0079688659458426;0.0079688659458426;0.0079688659458426;0.0079688659458426;"/>
+			<col name="2" type="6" num="0" prec="13" plot="5" width="100" formula="SD(&quot;Horní osa&quot;, 1, 30)/sqrt(11)" stat="0" comment="Standard Error от Таблица1_Horní osa" data="0.0386976958931409;0.0386976958931409;0.0386976958931409;0.0386976958931409;0.0386976958931409;0.0386976958931409;0.0386976958931409;0.0386976958931409;0.0386976958931409;0.0386976958931409;0.0386976958931409;"/>
+		</tab>
+	</window>
+	<window type="3" name="График1" date="2460035.7371103" x="508" y="3" w="1223" h="880" active="1" dpi="96">
+		<layout cw="1207" ch="821" w="591" h="443" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="8" y="31" w="1166" h="784" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.006628" y="0.0377588" w="0.966031" h="0.954933"/>
+			<title text="Závislost periody reverzního kyvadla na poloze závaží na ose" color="#000000" font="Lucida Sans Unicode,16.071,-1,5,75,0,0,0,0,0" align="4228" fmw="691"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="90" y="77" w="1068" h="673" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="1" z="21" table="Таблица1" x="Poloha na ose [cm]" y="Dolní osa" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+				<errors type="1" z="23" table="Таблица1" col="1" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0" cap="8" plus="1" minus="1" symb="1"/>
+			</curve>
+			<curve type="1" z="22" table="Таблица1" x="Poloha na ose [cm]" y="Horní osa" from="0" to="-1" line="0" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="2" size="7" lc="#ff0000" lw="1" ls="0" brc="#ff0000"/>
+				<errors type="1" z="24" table="Таблица1" col="2" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0" cap="8" plus="1" minus="1" symb="1"/>
+			</curve>
+			<curve type="19" z="25" name="ПолиномиальнаяАппроксимация1" f="0" y="a0+a1*x+a2*x^2+a3*x^3+a4*x^4" from="0" to="10" points="100" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="a0" val="1.96413482517483"/>
+				<param name="a1" val="0.00722810023309806"/>
+				<param name="a2" val="0.000526812354312789"/>
+				<param name="a3" val="-8.16899766899956e-05"/>
+				<param name="a4" val="3.56060606059917e-06"/>
+			</curve>
+			<curve type="19" z="26" name="ПолиномиальнаяАппроксимация2" f="0" y="a0+a1*x+a2*x^2+a3*x^3+a4*x^4" from="0" to="10" points="100" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="a0" val="1.86756000000001"/>
+				<param name="a1" val="0.0250392851592713"/>
+				<param name="a2" val="0.00195757575757927"/>
+				<param name="a3" val="-0.000137536907537206"/>
+				<param name="a4" val="7.80885780885996e-06"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="1.8" to="2.3" step="0" maj="11" min="2" type="0"/>
+				<ticks maj="1" majl="15" min="1" minl="8"/>
+				<title text="Perioda [s]" color="#000000" font="Lucida Sans Unicode,12.8568,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="99"/>
+				<labels space="4" font="Lucida Sans Unicode,12.8568,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-2.11283077750914" to="997.88716922249" step="0" maj="5" min="3" type="0"/>
+				<ticks maj="1" majl="15" min="1" minl="8"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-2" to="12" step="0" maj="8" min="2" type="0"/>
+				<ticks maj="1" majl="15" min="1" minl="8"/>
+				<title text="Poloha na ose [cm]" color="#000000" font="Lucida Sans Unicode,12.8568,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="175"/>
+				<labels space="4" font="Lucida Sans Unicode,12.8568,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="11.8196954383265" to="1011.81969543833" step="0" maj="5" min="3" type="0"/>
+				<ticks maj="1" majl="15" min="1" minl="8"/>
+			</axis>
+			<item type="2" x="-1.84930032292788" y="2.29464285714286" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,13.2585,-1,5,50,0,0,0,0,0" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+			<filter type="2" inCrv="0" from="0" to="10" outCrv="4" points="100" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="1" chi2="0.0585810993374788" func="1" weightMethod="1" weightData="Таблица1_1" pasteResults="0" order="4">
+				<parameter name="a0" val="1.96413482517483" err="5.81739161162368e-05"/>
+				<parameter name="a1" val="0.00722810023309806" err="0.000137982131047932"/>
+				<parameter name="a2" val="0.000526812354312789" err="2.64795552762205e-05"/>
+				<parameter name="a3" val="-8.16899766899956e-05" err="6.27051329353948e-07"/>
+				<parameter name="a4" val="3.56060606059917e-06" err="1.54192949841146e-09"/>
+			</filter>
+			<filter type="2" inCrv="2" from="0" to="10" outCrv="5" points="100" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="1" chi2="0.0030603308264864" func="1" weightMethod="1" weightData="Таблица1_2" pasteResults="0" order="4">
+				<parameter name="a0" val="1.86756000000001" err="0.0013718463526888"/>
+				<parameter name="a1" val="0.0250392851592713" err="0.00325386867263249"/>
+				<parameter name="a2" val="0.00195757575757927" err="0.000624435894156883"/>
+				<parameter name="a3" val="-0.000137536907537206" err="1.47870065581881e-05"/>
+				<parameter name="a4" val="7.80885780885996e-06" err="3.63614915365228e-08"/>
+			</filter>
+		</tab>
+	</window>
+</qti>

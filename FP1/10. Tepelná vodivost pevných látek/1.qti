@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="96" arch="Win64" script="muParser" windows="2" expand="1">
+	<window type="1" name="Таблица1" date="2460083.6128389" x="0" y="0" w="408" h="368">
+		<tab rows="30" cols="3" labels="0">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="100" stat="0" data="20.3;20.6;20;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="12.56;12.6;12.49;"/>
+			<col name="3" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="21.1;21.3;21.4;"/>
+		</tab>
+	</window>
+	<window type="6" name="Таблица1-ColStats2" date="2460083.6132979" x="370" y="24" w="904" h="160" active="1" label="Статистика столбцов Таблица1" title="2">
+		<tab rows="3" cols="18" labels="0" base="Таблица1" stat="1" targets="0,1,2">
+			<col name="Столбец" type="1" format="" plot="1" width="79" stat="2" comment="Название столбца"/>
+			<col name="Строк" type="1" format="" plot="2" width="64" stat="3" comment="Учтённые строки"/>
+			<col name="Среднее" type="6" num="0" prec="13" plot="2" width="101" stat="5" comment="Среднее"/>
+			<col name="СтандартОтклон" type="6" num="0" prec="13" plot="2" width="131" stat="6" comment="Среднеквадратичное отклонение"/>
+			<col name="Стандартная Ошибка" type="6" num="0" prec="13" plot="5" width="173" stat="7" comment="Стандартная Ошибка"/>
+			<col name="Вариация" type="6" num="0" prec="13" plot="2" width="115" stat="8" comment="Вариация"/>
+			<col name="Сумма" type="6" num="0" prec="13" plot="2" width="67" stat="9" comment="Сумма"/>
+			<col name="iMax" type="6" num="0" prec="13" plot="2" width="55" stat="10" comment="Индекс максимального значения"/>
+			<col name="Max" type="6" num="0" prec="13" plot="2" width="51" stat="11" comment="Максимальное значение"/>
+			<col name="iMin" type="6" num="0" prec="13" plot="2" width="52" stat="12" comment="Индекс минимального значения"/>
+			<col name="Min" type="6" num="0" prec="13" plot="2" width="48" stat="13" comment="Минимальное значение"/>
+			<col name="N" type="6" num="0" prec="13" plot="2" width="35" stat="14" comment="Число точек"/>
+			<col name="Медиана" type="6" num="0" prec="13" plot="2" width="81" stat="15" comment="Медиана"/>
+			<col name="Q1" type="6" num="0" prec="13" plot="2" width="44" stat="16" comment="Q1 (1st quartile)"/>
+			<col name="Q3" type="6" num="0" prec="13" plot="2" width="44" stat="17" comment="Q3 (3rd quartile)"/>
+			<col name="IQR" type="6" num="0" prec="13" plot="2" width="48" stat="18" comment="Interquartile range"/>
+			<col name="Skewness" type="6" num="0" prec="13" plot="2" width="114" stat="19" comment="Skewness"/>
+			<col name="Kurtosis" type="6" num="0" prec="13" plot="2" width="107" stat="20" comment="Kurtosis"/>
+		</tab>
+	</window>
+</qti>

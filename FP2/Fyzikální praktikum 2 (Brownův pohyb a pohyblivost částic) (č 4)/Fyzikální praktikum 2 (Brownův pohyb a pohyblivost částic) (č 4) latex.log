@@ -1,0 +1,516 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.29)  18 JAN 2024 21:33
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/mnt/c/Users/shepo/Desktop/Учебные материалы/3rd semestr/fp2/Fyzikální praktikum 2 (Brownův pohyb a pohyblivost částic) (č 4)/Fyzikální praktikum 2 (Brownův pohyb a pohyblivost částic) (č 4) latex"
+(/mnt/c/Users/shepo/Desktop/Учебные материалы/3rd semestr/fp2/Fyzikální praktikum 2 (Brownův pohyb a pohyblivost částic) (č 4)/Fyzikální praktikum 2 (Brownův pohyb a pohyblivost částic) (č 4) latex.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+)
+\jmenopraktika=\toks20
+\jmeno=\toks21
+\datum=\toks22
+\obor=\toks23
+\skupina=\toks24
+\rocnik=\toks25
+\semestr=\toks26
+\cisloulohy=\toks27
+\jmenoulohy=\toks28
+\tlak=\toks29
+\teplota=\toks30
+\vlhkost=\toks31
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen147
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks33
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks34
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks35
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2021/02/02 v1.28 mathematical typesetting tools
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count274
+\calc@Bcount=\count275
+\calc@Adimen=\dimen156
+\calc@Bdimen=\dimen157
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count276
+\calc@Cskip=\skip54
+) (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count277
+\l_MT_multwidth_dim=\dimen158
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen159
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen160
+\l_MT_above_intertext_sep=\dimen161
+\l_MT_below_intertext_sep=\dimen162
+\l_MT_above_shortintertext_sep=\dimen163
+\l_MT_below_shortintertext_sep=\dimen164
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen165
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count278
+\multirow@dima=\skip57
+\bigstrutjot=\dimen168
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count279
+\U@D=\dimen169
+\l@unhyphenated=\language3
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count280
+
+
+/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty:4254: Package babel Error: Unknown option 'czech'. Either you misspelled it
+(babel)                or the language definition file czech.ldf was not found.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4254 \ProcessOptions*
+                       
+Valid options are, among others: shorthands=, KeepShorthandsActive,
+activeacute, activegrave, noconfigs, safe=, main=, math=
+headfoot=, strings=, config=, hyphenmap=, or a language name.
+
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 4299.
+(/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2022/01/26 3.70 Nil language
+\l@nil=\language4
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count281
+\lst@gtempboxa=\box53
+\lst@token=\toks37
+\lst@length=\count282
+\lst@currlwidth=\dimen170
+\lst@column=\count283
+\lst@pos=\count284
+\lst@lostspace=\dimen171
+\lst@width=\dimen172
+\lst@newlines=\count285
+\lst@lineno=\count286
+\lst@maxwidth=\dimen173
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count287
+\lst@skipnumbers=\count288
+\lst@framebox=\box54
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen174
+\captionmargin@=\dimen175
+\captionwidth=\dimen176
+\caption@tempdima=\dimen177
+\caption@indent=\dimen178
+\caption@parindent=\dimen179
+\caption@hangindent=\dimen180
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count289
+\c@continuedfloat=\count290
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count291
+\c@subtable=\count292
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen181
+\ar@mcellbox=\box55
+\extrarowheight=\dimen182
+\NC@list=\toks38
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box56
+)
+\TX@col@width=\dimen183
+\TX@old@table=\dimen184
+\TX@old@col=\dimen185
+\TX@target=\dimen186
+\TX@delta=\dimen187
+\TX@cols=\count293
+\TX@ftn=\toks39
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count294
+\l__pdf_internal_box=\box57
+) (./Fyzikální praktikum 2 (Brownův pohyb a pohyblivost částic) (č 4) latex.aux)
+\openout1 = `"Fyzikální praktikum 2 (Brownův pohyb a pohyblivost částic) (č 4) latex.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count295
+\scratchdimen=\dimen188
+\scratchbox=\box58
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count298
+\MPscratchDim=\dimen189
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks41
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count301
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 95--106
+ []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--106
+
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 131--132
+\OT1/cmr/m/n/10.95 ^^Tc^^Sastice, doch^^Saz^^S^^P k jejich pohybu zp^^Wusoben^^Semu
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 131--132
+\OT1/cmr/m/n/10.95 sr^^Sa^^Tzkami atom^^Wu kapaliny s t^^Temito ^^Tc^^Sasticemi.
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 131--132
+\OT1/cmr/m/n/10.95 ^^Tc^^Sastice velk^^Se, nebo[]t s^^S^^Ply p^^Wusob^^S^^Pc^^S^^P mezi atomy
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 131--132
+\OT1/cmr/m/n/10.95 tyto s^^S^^Ply nejsou vykompenzov^^Sany, co^^Tz vede k
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 131--132
+\OT1/cmr/m/n/10.95 n^^Sahodn^^Semu pohybu, zn^^Sam^^Semu jako Brown^^Wuv
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 131--132
+\OT1/cmr/m/n/10.95 Stokesov^^Sym z^^Sakonem. Jeho chov^^San^^S^^P je tak^^Se
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 162--164
+\OT1/cmr/m/n/10.95 Jeliko^^Tz n^^Sas pouze st^^Tredn^^S^^P hodnoty zaj^^S^^Pmaj^^S^^P,
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 162--164
+\OT1/cmr/m/n/10.95 m^^Wu^^Tzeme pro $\OML/cmm/m/it/10.95 F[]$\OT1/cmr/m/n/10.95 , $\OML/cmm/m/it/10.95 x$ \OT1/cmr/m/n/10.95 nastavit 0 a nad^^Sale si
+ []
+
+
+Overfull \hbox (31.86667pt too wide) in paragraph at lines 128--168
+[][]   [] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 3219) in paragraph at lines 173--175
+\OT1/cmr/m/n/10.95 Pou^^Tzijeme-li teorii ide^^Saln^^S^^Pho plynu na pohyb
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 180--182
+\OT1/cmr/m/n/10.95 teplota kapaliny a $\OML/cmm/m/it/10.95 R$ \OT1/cmr/m/n/10.95 je univerz^^Saln^^S^^P plynov^^Sa
+ []
+
+<./images//Příklad záznamu chaotického pohybu brownovské částice.jpg, id=16, 230.11122pt x 153.55528pt>
+File: ./images//Příklad záznamu chaotického pohybu brownovské částice.jpg Graphic file (type jpg)
+<use ./images//Příklad záznamu chaotického pohybu brownovské částice.jpg>
+Package pdftex.def Info: ./images//Příklad záznamu chaotického pohybu brownovské částice.jpg  used on input line 219.
+(pdftex.def)             Requested size: 207.09816pt x 138.19846pt.
+
+Overfull \hbox (31.86667pt too wide) in paragraph at lines 169--250
+[][]   [] 
+ []
+
+[2 <./images//Příklad záznamu chaotického pohybu brownovské částice.jpg>]
+Underfull \hbox (badness 1097) in paragraph at lines 260--262
+\OT1/cmr/m/n/10.95 vzhledem k tepeln^^Sym vibrac^^S^^Pm atom^^Wu, zna^^Tcn^^Te
+ []
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 267--268
+[]\OT1/cmr/m/n/10.95 Po sr^^Sa^^Tzce se elektron pohybuje n^^Sahodn^^Te s
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 267--268
+\OT1/cmr/m/n/10.95 elektron dosahuje, st^^Sav^^Sa pr^^Wum^^Ternou rychlost^^S^^P
+ []
+
+<./images//Hustoty, hmotnostní čísla, počet volných elektronů na jeden atom a koncentrace volných elektronů vybraných kovů.png, id=26, 486.31688pt x 106.89937pt>
+File: ./images//Hustoty, hmotnostní čísla, počet volných elektronů na jeden atom a koncentrace volných elektronů vybraných kovů.png Graphic file (type png)
+<use ./images//Hustoty, hmotnostní čísla, počet volných elektronů na jeden atom a koncentrace volných elektronů vybraných kovů.png>
+Package pdftex.def Info: ./images//Hustoty, hmotnostní čísla, počet volných elektronů na jeden atom a koncentrace volných elektronů vybraných kovů.png  used on input line 288.
+(pdftex.def)             Requested size: 243.15784pt x 53.44954pt.
+
+Overfull \hbox (1.3094pt too wide) in paragraph at lines 288--290
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 300--301
+\OT1/cmr/m/n/10.95 p^^Tresnou velikost. To n^^Sam umo^^Tzn^^S^^P vypo^^Tc^^S^^Ptat
+ []
+
+
+Overfull \hbox (31.86667pt too wide) in paragraph at lines 251--337
+[][]   [] 
+ []
+
+
+Overfull \vbox (30.70972pt too high) has occurred while \output is active []
+
+ [3 <./images//Hustoty, hmotnostní čísla, počet volných elektronů na jeden atom a koncentrace volných elektronů vybraných kovů.png>]
+Overfull \hbox (31.86667pt too wide) in paragraph at lines 338--484
+[]$[]$   $[]$ 
+ []
+
+[4]
+Underfull \hbox (badness 5231) in paragraph at lines 507--507
+[]\OT1/cmr/bx/n/12 Pohyblivost voln^^Sych elektron^^Wu v
+ []
+
+<./images//tau.png, id=35, 713.3049pt x 709.6914pt>
+File: ./images//tau.png Graphic file (type png)
+<use ./images//tau.png>
+Package pdftex.def Info: ./images//tau.png  used on input line 529.
+(pdftex.def)             Requested size: 213.99312pt x 212.90906pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+[]\OT1/cmr/m/n/10.95 K v^^Sypo^^Tctu nejistot byla pou^^Tzita knihovna
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 542--543
+[]\OT1/cmr/m/n/10.95 Pravd^^Tepodobn^^Te je to zp^^Wusobeno nep^^Tresnost^^S^^P
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 544--544
+[]\OT1/cmr/bx/n/12 Pohyblivost voln^^Sych elektron^^Wu v
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 545--546
+\OT1/cmr/m/n/10.95 pom^^Tern^^Te dob^^Tre konverguje se svou tabulkovou
+ []
+
+
+Overfull \hbox (31.86667pt too wide) in paragraph at lines 485--594
+[][]   []
+ []
+
+
+Overfull \vbox (34.42577pt too high) has occurred while \output is active []
+
+ [5 <./images//tau.png>] [6] (./Fyzikální praktikum 2 (Brownův pohyb a pohyblivost částic) (č 4) latex.aux) ) 
+Here is how much of TeX's memory you used:
+ 7250 strings out of 480247
+ 124620 string characters out of 5896150
+ 457505 words of memory out of 5000000
+ 25120 multiletter control sequences out of 15000+600000
+ 478760 words of font info for 61 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 67i,12n,77p,1114b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/wall-st/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "Fyzikální praktikum 2 (Brownův pohyb a pohyblivost částic) (č 4) latex.pdf" (6 pages, 375279 bytes).
+PDF statistics:
+ 119 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

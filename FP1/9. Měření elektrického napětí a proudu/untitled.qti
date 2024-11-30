@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.0.0-rc13" dpi="96" arch="Win64" script="muParser" windows="2" expand="1" log="[2023-05-12 17:27:07&#9;График: ''График1'']&#10;Линейная регрессия набора данных: Таблица1_2, используя функцию: A*x+B&#10;Сортировать: Нет&#10;Способ взвешивания: Без взвешивания&#10;От значения по x = 0,0000000000000e+00 до значения по x = 2,1400000000000e+01&#10;&#10;Параметр                              Значение                              Ошибка                                 &#10;------------------------------------------------------------------------&#10;B (y-intercept)                      -1,0674076000000e+01  inf                                           &#10;A (slope)                               9,9863962616822e-01     inf                                           &#10;------------------------------------------------------------------------&#10;Errors were scaled with sqrt(Chi^2/doF) = inf&#10;&#10;Statistics                                        Таблица1_2                                  &#10;--------------------------------------------------------&#10;N (точек)                                       2                                                     &#10;Degrees of Freedom (doF)         0                                                     &#10;Chi^2/doF                                    inf                                                   &#10;Сумма квадратов разностей    3,1554436208840e-30             &#10;R                                                     1,0000000000000e+00            &#10;R^2                                                 1,0000000000000e+00            &#10;Adjusted R^2                                -inf                                                 &#10;Среднеквадратичная ошибка  inf                                                   &#10;--------------------------------------------------------&#10;[2023-05-12 17:29:15&#9;График: ''График1'']&#10;Линейная регрессия набора данных: Таблица1_2, используя функцию: A*x+B&#10;Сортировать: Нет&#10;Способ взвешивания: Без взвешивания&#10;От значения по x = 0,0000000000000e+00 до значения по x = 6,5535000000000e+04&#10;&#10;Параметр                              Значение                              Ошибка                                 &#10;------------------------------------------------------------------------&#10;B (y-intercept)                      -1,0674076000000e+01  inf                                           &#10;A (slope)                               3,2609884794385e-04     inf                                           &#10;------------------------------------------------------------------------&#10;Errors were scaled with sqrt(Chi^2/doF) = inf&#10;&#10;Statistics                                        Таблица1_2                                  &#10;--------------------------------------------------------&#10;N (точек)                                       2                                                     &#10;Degrees of Freedom (doF)         0                                                     &#10;Chi^2/doF                                    inf                                                   &#10;Сумма квадратов разностей    1,5777218104420e-29             &#10;R                                                     1,0000000000000e+00            &#10;R^2                                                 1,0000000000000e+00            &#10;Adjusted R^2                                -inf                                                 &#10;Среднеквадратичная ошибка  inf                                                   &#10;--------------------------------------------------------&#10;">
+	<window type="1" name="Таблица1" date="2460076.7249674" x="0" y="0" w="383" h="374">
+		<tab rows="30" cols="2" labels="0">
+			<col name="1" type="6" num="0" prec="13" plot="1" width="100" stat="0" data="0;65535;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="-10.674076;10.696812;"/>
+		</tab>
+	</window>
+	<window type="3" name="График1" date="2460076.7253721" x="433" y="41" w="1045" h="707" active="1" dpi="96">
+		<layout cw="1029" ch="648" w="591" h="443" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="1" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2"/>
+		<tab x="7" y="5" w="1024" h="637" autoscale="1" maxMajorTicks="20" antialias="1" gap="1" scaleFont="1" dataMargins="1">
+			<page x="0.00680272" y="0.00771605" w="0.995141" h="0.983025"/>
+			<title text="Rozsah napětí jako funkci bitů" color="#000000" font="Lucida Sans Unicode,13.7409,-1,5,75,0,0,0,0,0" align="4228" fmw="295"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="77" y="48" w="920" h="536" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="1" ls="0"/>
+				<minx lc="#a0a0a4" lw="1" ls="1"/>
+				<majy lc="#a0a0a4" lw="1" ls="0"/>
+				<miny lc="#a0a0a4" lw="1" ls="1"/>
+			</grid>
+			<curve type="1" z="21" table="Таблица1" x="1" y="2" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="ЛинейнаяАппроксимация1" f="0" y="A*x+B" from="0" to="65535" points="2" line="1" lc="#ff0000" lw="2" ls="0" brc="#000000" brs="0">
+				<param name="A" val="0.000326098847943847"/>
+				<param name="B" val="-10.674076"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-15" to="15" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="14" min="1" minl="6"/>
+				<title text="Rozsah napětí [V]" color="#000000" font="Lucida Sans Unicode,10.9927,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="145"/>
+				<labels space="4" font="Lucida Sans Unicode,10.9927,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="14" min="1" minl="6"/>
+				<title text=" " color="#000000" font="Lucida Sans Unicode,8.25,-1,5,50,0,0,0,0,0" align="132" space="2" fmw="3"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-10000" to="70000" step="0" maj="9" min="4" type="0"/>
+				<ticks maj="1" majl="14" min="1" minl="6"/>
+				<title text="Bits" color="#000000" font="Lucida Sans Unicode,10.9927,-1,5,75,0,0,0,0,0" align="5124" space="2" fmw="30"/>
+				<labels space="4" font="Lucida Sans Unicode,10.9927,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="0" to="1000" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="14" min="1" minl="6"/>
+			</axis>
+			<filter type="0" inCrv="0" from="0" to="65535" outCrv="1" points="2" recalc="1" sort="0" fmt="e" prec="13" modifiedData="0" sclErr="0" chi2="1.57772181044202e-29" func="1" pasteResults="0">
+				<parameter name="B" val="-10.674076" explain="y-intercept" err="inf"/>
+				<parameter name="A" val="0.000326098847943847" explain="slope" err="inf"/>
+			</filter>
+		</tab>
+	</window>
+</qti>
